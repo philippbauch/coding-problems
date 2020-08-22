@@ -8,11 +8,9 @@ import java.util.regex.*;
 
 public class Solution {
 
-    // [0,1,2]; n = 3
-
     // Complete the sockMerchant function below.
     static int sockMerchant(int n, int[] ar) {
-      int[] cs = new int[100]; // O(1)
+      int[] cs = new int[100];
       int numOfPairs = 0;
 
       for (int a : ar) {
