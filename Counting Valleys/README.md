@@ -25,10 +25,6 @@ countingValleys has the following parameter(s):
 The first line contains an integer , the number of steps in Gary's hike.
 The second line contains a single string , of  characters that describe his path.
 
-## Constraints
-
-* 2 <= n <= 10^6
-
 ## Output Format
 
 Print a single integer that denotes the number of valleys Gary walked through during his hike.
